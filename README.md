@@ -1,2 +1,2 @@
 # Electricity-Billing-System
-A JAVA EE applet to create an electricity billing system.
+A JAVA SE applet to create an electricity billing system.
